@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Achmad Andy Dekanovy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is D
 ============================================================================================================================================
 
 Software Engineer
 -----------------
 
-I am a seasoned software engineer with a strong foundation in designing and developing robust applications. My expertise spans across multiple programming languages, and I thrive on solving complex problems through elegant and scalable solutions. With a keen eye for detail and a passion for staying updated on industry trends, I am committed to delivering high-quality software that meets both user needs and business objectives. My experience extends to various stages of the software development lifecycle, and I excel in collaborative environments where creativity and technical excellence are valued.
+Hi! I’m a software engineer who loves turning caffeine and ideas into clean, working code. I’ve played around with all kinds of languages and frameworks — whatever gets the job done well. Complex problems? I see them as puzzles waiting to be solved (preferably with good variable names). I enjoy staying up to date with tech trends, not to chase buzzwords, but to build smarter, not harder. From wireframes to deployment, I’ve been through the full dev cycle, and I thrive in teams where people love to create, collaborate, and occasionally meme about semicolons.
 
 * 🌍  I'm based in Jakarta - Indonesia
 * 🖥️  See my portfolio at [My website](http://achmdndy.dev)
