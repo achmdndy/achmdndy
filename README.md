@@ -54,7 +54,11 @@
     .github/workflows/metrics.yml. It will appear after the first successful run of the action.
     This replaces the unreliable external URL with a high-quality, reliable, self-hosted image.
   -->
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <br/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <br/>
+  <img src="./profile/streak.svg" alt="Streak" />
 </div>
 
 <br/><br/>
