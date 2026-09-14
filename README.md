@@ -1,12 +1,12 @@
 <div align="center">
 
-```
-┌──────────────────────────────────┐
-│  ●  ●  ●          guest@dk: ~     │
-├──────────────────────────────────┤
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=520&height=70&lines=DK_;SOFTWARE_ENGINEER_;AI_ENTHUSIAST_" alt="DK" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=DK&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%C2%B7%20AI%20ENTHUSIAST&descAlignY=68&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2200&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=560&height=50&lines=%3E+whoami_;%3E+role%3A+software_engineer_;%3E+status%3A+open_to_work_" alt="terminal" width="100%"/>
+
+</div>
 
 ```
 guest@dk:~$ whoami
@@ -15,18 +15,21 @@ Software engineer who thrives on complexity.
 guest@dk:~$ cat mission.txt
 Crafting scalable, clean, performant solutions —
 from full-stack apps to ML models.
-
-guest@dk:~$ cat contact.txt
-portfolio   achmdndy.dev
-email       achmdndy@gmail.com
-linkedin    linkedin.com/in/achmdndy
 ```
 
-[`portfolio`](https://achmdndy.dev) · [`email`](mailto:achmdndy@gmail.com) · [`linkedin`](https://www.linkedin.com/in/achmdndy/)
+<div align="center">
+
+![](https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=aboutdotme&logoColor=white)
+[![](https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:achmdndy@gmail.com)
+[![](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/achmdndy/)
+
+</div>
 
 ```
 guest@dk:~$ ls arsenal/
 ```
+
+<div align="center">
 
 ![](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
@@ -55,20 +58,21 @@ guest@dk:~$ ls arsenal/
 ![](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=white)
 
+</div>
+
 ```
 guest@dk:~$ ./stats.sh --render
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=achmdndy&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=false" alt="GitHub Stats" width="420" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmdndy&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" width="330" />
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=achmdndy&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" alt="Streak" width="480" />
 <br/>
-<img src="https://streak-stats.demolab.com/?user=achmdndy&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" alt="Streak" width="420" />
+![](https://img.shields.io/github/followers/achmdndy?style=flat-square&logo=github&logoColor=white&color=000000&label=FOLLOWERS)
+![](https://komarev.com/ghpvc/?username=achmdndy&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
-```
-guest@dk:~$ echo "thanks for visiting"
-thanks for visiting
-guest@dk:~$ █
-└──────────────────────────────────┘
-```
+</div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=4&section=footer" width="100%"/>
 </div>
