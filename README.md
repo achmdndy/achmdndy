@@ -1,37 +1,32 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2200&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=560&height=90&lines=%3E+DK_;%3E+SOFTWARE_ENGINEER_;%3E+AI_ENTHUSIAST_" alt="DK" />
-
-</div>
-
 ```
-┌─ dk@terminal ──────────────────┐
- $ whoami
- Software engineer who thrives
- on complexity.
-
- $ cat mission.txt
- Crafting scalable, clean,
- performant solutions — from
- full-stack apps to ML models.
-└─────────────────────────────────┘
+┌──────────────────────────────────┐
+│  ●  ●  ●          guest@dk: ~     │
+├──────────────────────────────────┤
 ```
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2200&pause=700&color=FFFFFF&background=000000&center=true&vCenter=true&width=520&height=70&lines=DK_;SOFTWARE_ENGINEER_;AI_ENTHUSIAST_" alt="DK" />
 
-<div align="center">
+```
+guest@dk:~$ whoami
+Software engineer who thrives on complexity.
 
-<a href="https://achmdndy.dev"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=flat-square&logo=aboutdotme&logoColor=white" /></a>
-<a href="mailto:achmdndy@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/achmdndy/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+guest@dk:~$ cat mission.txt
+Crafting scalable, clean, performant solutions —
+from full-stack apps to ML models.
 
-</div>
+guest@dk:~$ cat contact.txt
+portfolio   achmdndy.dev
+email       achmdndy@gmail.com
+linkedin    linkedin.com/in/achmdndy
+```
 
----
+[`portfolio`](https://achmdndy.dev) · [`email`](mailto:achmdndy@gmail.com) · [`linkedin`](https://www.linkedin.com/in/achmdndy/)
 
-### `$ ls arsenal/`
-
-<div align="center">
+```
+guest@dk:~$ ls arsenal/
+```
 
 ![](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
@@ -60,22 +55,20 @@
 ![](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=white)
 ![](https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=white)
 
-</div>
+```
+guest@dk:~$ ./stats.sh --render
+```
 
----
-
-### `$ cat stats.log`
-
-<!--
-  stats.svg / top-langs.svg / streak.svg di-generate oleh GitHub Action
-  (.github/workflows/metrics.yml). Agar hitam-putih murni, set di config action:
-  title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&border_color=ffffff
--->
-<div align="center">
-<img src="./profile/stats.svg" alt="GitHub Stats" width="420" />
-<img src="./profile/top-langs.svg" alt="Top Languages" width="420" />
+<img src="https://github-readme-stats.vercel.app/api?username=achmdndy&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_title=false" alt="GitHub Stats" width="420" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmdndy&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages" width="330" />
 <br/>
-<img src="./profile/streak.svg" alt="Streak" width="420" />
-</div>
+<img src="https://streak-stats.demolab.com/?user=achmdndy&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff&dates=ffffff" alt="Streak" width="420" />
 
----
+```
+guest@dk:~$ echo "thanks for visiting"
+thanks for visiting
+guest@dk:~$ █
+└──────────────────────────────────┘
+```
+
+</div>
