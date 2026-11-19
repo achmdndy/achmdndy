@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="./assets/night-city-meteors.gif" alt="DEKA | ASCII Night City with animated meteors" width="100%" />
+<img src="./assets/night-city.gif" width="100%" alt="DEKA — animated ASCII night city with shooting meteors" />
 
-### `guest@dk:~$ whoami`
+### `guest@dk:~$ ./identity --show`
 
-**DEKA** · Software Engineer · AI Enthusiast
+# `DEKA_`
+
+**SOFTWARE ENGINEER** `//` **BACKEND · FULL-STACK · DEVOPS · AI**
 
 *Building software, infrastructure & strange little ideas.*
 
-[**Portfolio**](https://achmdndy.dev) · [**LinkedIn**](https://www.linkedin.com/in/achmdndy/) · [**GitHub**](https://github.com/achmdndy) · [**Email**](mailto:achmdndy@gmail.com)
+<img alt="SYSTEM ONLINE" src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF88?style=flat-square&labelColor=10151D" /> <img alt="OPEN TO WORK" src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-FF5577?style=flat-square&labelColor=10151D" /> <img alt="INDONESIA" src="https://img.shields.io/badge/LOCATION-INDONESIA-00D9FF?style=flat-square&labelColor=10151D" />
 
-`● ONLINE` &nbsp; `Indonesia` &nbsp; `Open to Work`
+[**`[ PORTFOLIO ]`**](https://achmdndy.dev) &nbsp; [**`[ LINKEDIN ]`**](https://www.linkedin.com/in/achmdndy/) &nbsp; [**`[ GITHUB ]`**](https://github.com/achmdndy) &nbsp; [**`[ EMAIL ]`**](mailto:achmdndy@gmail.com)
 
 </div>
 
@@ -18,71 +20,71 @@
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td width="56%" valign="top">
 
-### `~/about` 
+### `01 / WHOAMI`
 
-```sh
-guest@dk:~$ cat about.txt
-```
+**I build systems, not just features.**
 
-I build software across **backend engineering, full-stack applications, cloud infrastructure, and AI**.
+I work across backend APIs, distributed systems, full-stack products, cloud infrastructure and AI experiments.
 
-I care about clean architecture, useful abstractions, observable systems, and shipping things that work outside the demo.
+My approach: **simple where possible, reliable where it matters**, and observable when things go wrong.
 
-**Current mode:** `build > break > learn > repeat`
+`$ echo $MODE` → `build > break > learn > repeat`
 
 </td>
-<td width="48%" valign="top">
+<td width="44%" valign="top">
 
-### `~/focus`
+### `02 / CURRENT.SIGNAL`
 
 ```text
-[+] Distributed systems
-[+] Backend engineering
-[+] Kubernetes & GitOps
-[+] Developer tooling
-[+] Artificial intelligence
-[+] Shipping side projects
+[+] backend engineering
+[+] distributed systems
+[+] kubernetes / gitops
+[+] developer tooling
+[+] artificial intelligence
+[+] shipping side projects
 ```
 
 </td>
 </tr>
 </table>
 
-### `~/arsenal` 
+### `03 / TECH.LOADOUT`
 
-| Layer | Tools & technologies |
-| :-- | :-- |
-| **Languages** | Go · TypeScript · JavaScript · Python · Rust · C# · Java · Dart |
-| **Frontend** | React · Next.js · Vue · Angular · Svelte |
-| **Backend** | Go · Node.js · Express · Django · .NET |
-| **Data** | PostgreSQL · MySQL · MongoDB · Redis |
-| **Infrastructure** | Docker · Kubernetes · Argo CD · GitOps · Azure · AWS · GCP |
+| `MODULE` | `TOOLS / TECHNOLOGIES` |
+| :--- | :--- |
+| `> LANG` | Go · Rust · TypeScript · JavaScript · Python · C# · Java · Dart |
+| `> FRONTEND` | React · Next.js · Vue · Angular · Svelte |
+| `> BACKEND` | Node.js · Express · Django · .NET · Go |
+| `> DATA` | PostgreSQL · MySQL · MongoDB · Redis |
+| `> INFRA` | Docker · Kubernetes · Argo CD · GitOps · AWS · Azure · GCP |
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### `~/workflow`
+### `04 / EXECUTION.LOG`
 
 ```text
 $ ./workflow.sh
+
 01  understand the problem
-02  remove unnecessary complexity
-03  design the boring solution
+02  remove complexity
+03  design the solution
 04  build & observe
 05  break, learn & fix
 06  ship
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### `~/philosophy`
+### `05 / SYSTEM.PHILOSOPHY`
 
 ```text
 $ fortune
+
 "Make it work.
  Make it right.
  Make it fast.
@@ -98,16 +100,10 @@ $ fortune
 
 <div align="center">
 
-```text
-guest@dk:~$ ./contact --help
---mail       send an email
---linkedin   connect professionally
---portfolio  explore my work
-```
+`guest@dk:~$ ./connect --help`
 
-**[Let's connect](mailto:achmdndy@gmail.com)** · [achmdndy.dev](https://achmdndy.dev)
+**[Portfolio](https://achmdndy.dev)** · **[LinkedIn](https://www.linkedin.com/in/achmdndy/)** · **[GitHub](https://github.com/achmdndy)** · **[Email](mailto:achmdndy@gmail.com)**
 
-`guest@dk:~$ echo "thanks for stopping by."`  
-`thanks for stopping by.`
+<sub><code>[ connection established ] · thanks for stopping by_</code></sub>
 
 </div>
