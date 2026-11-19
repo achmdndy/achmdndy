@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/deka-night-city-meteors.gif" alt="DEKA | ASCII Night City with animated meteors" width="100%" />
+<img src="./assets/night-city-meteors.gif" alt="DEKA | ASCII Night City with animated meteors" width="100%" />
 
 ### `guest@dk:~$ whoami`
 
